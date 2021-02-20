@@ -1,0 +1,20 @@
+{
+    "name": "javascript-closures-and-callbacks",
+    "description": "John Lindquist - Composing Closures and Callbacks in JavaScript",
+    "version": "1.0.0",
+    "main": "index.html",
+    "scripts": {
+        "start": "parcel index.html --no-cache"
+    },
+    "keywords": [
+        "callback",
+        "closure",
+        "javascript"
+    ],
+    "dependencies": {
+        "lodash": "^4.17.20"
+    },
+    "devDependencies": {
+        "parcel-bundler": "^1.12.4"
+    }
+}
